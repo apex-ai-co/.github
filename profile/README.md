@@ -1,13 +1,13 @@
-[![MiosBot Orbit logo against a rising planet](https://raw.githubusercontent.com/apex-ai-co/.github/main/assets/miosbot-orbit.webp)](https://miosbot.com/)
+[![MiosBot logo against a rising planet](https://raw.githubusercontent.com/apex-ai-co/.github/main/assets/miosbot-orbit.webp)](https://miosbot.com/)
 
 # Apex Intelligence Inc
 
-We build MiosBot. Ramway, the agent inside the app, gives you one ongoing conversation for the work. Open a task beside the chat, see its current step, and step in when it needs your decision.
+We build MiosBot, a workspace for your AI agent. Follow your agent’s current step beside its ongoing chat and open a task when it needs your decision.
 
-## See Ramway at work
+## Inside MiosBot
 
-The desktop preview follows a task from the conversation into the task panel. The mobile web preview opens a decision waiting for review. Both recordings use sample data. [Watch the app previews](https://miosbot.com/#workspace-films)
+The desktop preview opens a running task. The mobile web preview opens a decision waiting for review. CW’s personal agent, Ramway, appears in this sample workspace. [Watch the app previews](https://miosbot.com/#workspace-films)
 
-[![Watch the Ramway workspace preview](https://raw.githubusercontent.com/apex-ai-co/.github/main/assets/ramway-workspace.jpg)](https://miosbot.com/#workspace-films)
+[![MiosBot desktop workspace preview](https://raw.githubusercontent.com/apex-ai-co/.github/main/assets/miosbot-workspace.jpg)](https://miosbot.com/#workspace-films)
 
 [Explore MiosBot](https://miosbot.com/) · [Read the documentation](https://miosbot.com/docs/) · [Meet Apex Intelligence](https://apex-intelligence.co/)
