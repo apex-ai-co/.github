@@ -10,4 +10,4 @@ The desktop preview opens a running task. The mobile web preview opens a decisio
 
 [![MiosBot desktop workspace preview](https://raw.githubusercontent.com/apex-ai-co/.github/main/assets/miosbot-workspace.jpg)](https://miosbot.com/#workspace-films)
 
-[Explore MiosBot](https://miosbot.com/) · [Read the documentation](https://miosbot.com/docs/) · [Meet Apex Intelligence](https://apex-intelligence.co/)
+[Explore MiosBot](https://miosbot.com/) · [Read the documentation](https://miosbot.com/docs/) · [GitHub showcase and feedback](https://github.com/apex-ai-co/miosbot-showcase) · [Meet Apex Intelligence](https://apex-intelligence.co/)
